@@ -1,6 +1,6 @@
 # Simple Rest Api With .net 6 minimal API
 
-<img src="img/restapi.png">
+![Swagger](img/restapi.png)
 
 this project uses ASP.NET 6 minimal api with:
 - swagger 
